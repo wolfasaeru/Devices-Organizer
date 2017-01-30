@@ -83,3 +83,5 @@ typings
 app/**/*.js
 app/**/*.map
 bower_components
+
+dist
